@@ -1,0 +1,90 @@
+*
+{
+padding: 0;
+margin: 0;
+}
+
+
+.header
+{
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #FFC300;
+}
+
+body
+{
+	background-image: url(https://w0.peakpx.com/wallpaper/782/1020/HD-wallpaper-street-for-galaxy-iphone-lg-new-phones-popular-samsung-sony-xperia.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+@media (min width: 480px)
+{
+    background-image: url(https://w0.peakpx.com/wallpaper/782/1020/HD-wallpaper-street-for-galaxy-iphone-lg-new-phones-popular-samsung-sony-xperia.jpg);
+}
+
+@media (min width: 768px)
+{
+    background-image: url(https://w0.peakpx.com/wallpaper/782/1020/HD-wallpaper-street-for-galaxy-iphone-lg-new-phones-popular-samsung-sony-xperia.jpg);
+}
+@media (min width: 1200px)
+{
+    background-image: url(https://w0.peakpx.com/wallpaper/782/1020/HD-wallpaper-street-for-galaxy-iphone-lg-new-phones-popular-samsung-sony-xperia.jpg);
+}
+
+
+.centro
+{
+    font-weight: bold;
+    color: #FFC300;
+    font-size: 22px;
+}
+
+.tres
+{
+    text-align: center;
+    color: #FFC300;
+}
+
+iframe
+{
+    align-items: center;
+    text-align: center;
+
+}
+
+label
+{
+    font-weight: bold;
+    color: #FFC300;
+}
+
+
+h1
+    {
+	color:rgb(250, 174, 12);
+	float: left;
+
+	}
+
+a
+    {
+	color: #FFC300;
+	text-align: left;
+	}
+
+
+
+.footer
+{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    align-self: flex-end;
+    text-align: center;
+}
+					
